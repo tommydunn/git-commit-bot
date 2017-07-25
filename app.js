@@ -43,7 +43,7 @@ function isFunny(message) {
 function extractNameFromUrl(url){
   var remove_head = url.split("https://api.github.com/repos/")[1];
   var user_name = remove_head.split("/")[0];
-  return "http://www.github.com/"+user_name;
+  return "http://www.github.com/" + user_name;
 }
 
 function parse_github_results(err, res, body) {

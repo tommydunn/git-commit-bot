@@ -5,8 +5,8 @@
   "private": true,
   "main": "app.js",
   "dependencies": {
-    "request": "2.53.0",
-    "express": "3.5.1",
+    "request": "2.81.0",
+    "express": "4.15.3",
     "node-twitterbot": "0.2.2"
   }
 }
