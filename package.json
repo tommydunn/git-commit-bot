@@ -1,12 +1,12 @@
 {
   "name": "git-commit-bot",
-  "description": "funny git commits",
+  "description": "Funny Commits",
   "version": "1.0.0",
   "private": true,
   "main": "app.js",
   "dependencies": {
-    "request": "2.81.0",
-    "express": "4.15.3",
+    "request": "v2.53.0",
+    "express": "3.5.1",
     "node-twitterbot": "0.2.2"
   }
 }
