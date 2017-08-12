@@ -5,10 +5,10 @@ exports.twitterAccess = {
   "access_token_secret": 'yG4yQonDnv29KSbxeoMFxvGrsYHbjubB9AsOEgts7RpXX'
 };
 
-exports.githubToken = "41a0b4072542dbf8bd999e92afb7630ff9ae89e3";
+exports.githubToken = "8bf338925b5a7069ad36d81c1d329601a8100382";
 
 exports.screenName = "funnyCommits";
 
-exports.yesWords = ['fuck', 'shit', ' crap ', 'damn', 'bitch'];
+exports.yesWords = ['fuck', 'shit', ' crap ', 'damn', 'bitch', 'stupid', 'nope'];
 
 exports.noWords = ['merge', 'branch', 'master'];
